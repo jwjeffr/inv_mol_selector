@@ -10,4 +10,4 @@ The modifier works by:
 2. Partitioning the graph into its connected components, each representing a molecule
 3. Selecting all the atoms in a connected component if the connected component does not match any user-provided templates
 
-All graph-related computations are done via the networkx Python package
+All graph-related computations are done via the networkx Python package.
